@@ -35,7 +35,7 @@ Registeration Number : 212224220080
 */
 ```
 
-MainActivity.java
+## MainActivity.java
 
 ```
 package com.example.app1;
@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-activity_main.xml 
+ ## activity_main.xml 
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
